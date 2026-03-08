@@ -1,96 +1,58 @@
-<h1 align="center">Hi, I'm Çağlar Yılmaz 👋</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;Information+Systems+Student" alt="Typing SVG" />
+</div>
+
+<h3 align="center">Hi 👋, I'm Çağlar Yılmaz</h3>
 
 <p align="center">
-  <a href="mailto:ccaglarylz@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/ccaglarylz">LinkedIn</a> •
-  <a href="https://github.com/ccaglary">GitHub</a>
+  A passionate <strong>Backend Developer</strong> based in Istanbul, Türkiye 🇹🇷. <br>
+  Currently studying Information Systems and Technologies at Okan University and building scalable backend services.
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 Hakkımda / About Me
 
-I'm a backend developer focused on building scalable and maintainable applications using **Java** and **Spring Boot**.  
-I enjoy developing RESTful APIs, debugging complex backend flows, and improving software architecture with clean and practical solutions.
-
-- 🔭 I’m currently focusing on **backend development with Java & Spring Boot**
-- 🌱 I’m improving myself in **software architecture, API design, SQL, and system integration**
-- 🛠️ I have experience with **PostgreSQL, MySQL, Git, Docker, Postman, and Jira**
-- 📍 Based in **Istanbul, Türkiye**
-- 🎯 Goal: To grow as a strong backend engineer and contribute to impactful software projects
+- 🔭 Şu anda mezuniyet projem olan **Comcca** (oyunlaştırılmış proje yönetim uygulaması) ve kişisel bir **Borsa Takip Uygulaması** üzerinde çalışıyorum.
+- 🌱 **Java, Spring Boot, Microservices** ve **Kafka** mimarileri üzerine kendimi geliştirmeye devam ediyorum. Borsa tahminleri için **Python ve Makine Öğrenmesi** ile de ilgileniyorum.
+- 💼 Yakın zamanda **ATR Touristik**'te Backend Developer olarak görev aldım (Eyl 2025 - Mar 2026).
+- 💬 Bana **Java, Spring Boot, PostgreSQL** veya entegrasyon projeleri hakkında her şeyi sorabilirsin.
+- 📫 Bana ulaşmak için: **ccaglarylz@gmail.com**
 
 ---
 
-## 🧰 Tech Stack
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
-### Backend & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 💼 Experience
-
-### Junior Java Developer — ATR Touristik
-- Worked on backend services and RESTful API integrations
-- Supported database operations with SQL queries, stored procedures, and triggers
-- Reviewed code, debugged errors, and improved backend performance
-
-### Intern — Venhancer
-- Developed microservices and Kafka consumers using Java Spring Boot
-- Worked on backend debugging and production bug fixes
-- Contributed to collaborative development and code review processes
-
----
-
-## 📌 Featured Projects
-
-### [gallerist-project](https://github.com/ccaglary/gallerist-project)
-A project focused on backend/business logic development with Java.
-
-### [Yazar-Kasa-Uygulamasi](https://github.com/ccaglary/Yazar-Kasa-Uygulamasi)
-A JavaScript-based cash register application project.
-
-### [Borsa-Tahmin](https://github.com/ccaglary/Borsa-Tahmin)
-A Python project built around stock market prediction and data analysis.
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccaglary&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaglary&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-## 🎓 Education & Certifications
+### 📊 GitHub İstatistiklerim
 
-- **B.Sc. in Information Systems and Technologies** — Okan University
-- Python and TensorFlow for Data Science
-- Database Programming with T-SQL
-- Learning SQL with Applications
-- Introduction to Cybersecurity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ccaglary&show_icons=true&theme=tokyonight&hide_border=true" alt="Çağlar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaglary&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+### 🔗 Bağlantılarım
 
-<p>
-  <a href="mailto:ccaglarylz@gmail.com">📧 Email</a><br>
-  <a href="https://www.linkedin.com/in/ccaglarylz">💼 LinkedIn</a><br>
-  <a href="https://github.com/ccaglary">💻 GitHub</a>
+<p align="left">
+  <a href="https://linkedin.com/in/ccaglarylz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
