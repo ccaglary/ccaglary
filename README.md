@@ -13,11 +13,20 @@
 
 ### 👨‍💻 Hakkımda / About Me
 
-- 🔭 Şu anda mezuniyet projem olan **Comcca** (oyunlaştırılmış proje yönetim uygulaması) ve kişisel bir **Borsa Takip Uygulaması** üzerinde çalışıyorum.
-- 🌱 **Java, Spring Boot, Microservices** ve **Kafka** mimarileri üzerine kendimi geliştirmeye devam ediyorum. Borsa tahminleri için **Python ve Makine Öğrenmesi** ile de ilgileniyorum.
-- 💼 Yakın zamanda **ATR Touristik**'te Backend Developer olarak görev aldım (Eyl 2025 - Mar 2026).
-- 💬 Bana **Java, Spring Boot, PostgreSQL** veya entegrasyon projeleri hakkında her şeyi sorabilirsin.
+- 🔭 Şu anda mezuniyet projem olan, **Spring Boot** tabanlı oyunlaştırılmış proje yönetim uygulaması **Comcca** üzerinde çalışıyorum.
+- 🌱 **Java, Spring Boot, Microservices** ve **Kafka** mimarileri üzerine kendimi geliştirmeye devam ediyorum.
+- 💼 **ATR Touristik** (Eyl 2025 - Mar 2026) ve **Venhancer** (Haz 2025 - Tem 2025) şirketlerinde stajlarımı tamamlayarak canlı projelerde (RESTful API, Kafka consumer, veritabanı yönetimi) aktif rol aldım.
+- 💬 Bana **Java, Spring Boot, PostgreSQL** veya backend mimarileri hakkında her şeyi sorabilirsin.
 - 📫 Bana ulaşmak için: **ccaglarylz@gmail.com**
+
+---
+
+### 📜 Sertifikalarım / Certifications
+
+- 🏆 **Introduction to Cybersecurity** - BTK Akademi (Nis 2025)
+- 🏆 **Python and Tensorflow for Data Science** - BTK Akademi (Ara 2024)
+- 🏆 **Database Programming with T-SQL** - BTK Akademi (May 2024)
+- 🏆 **Learning SQL with Applications** - BTK Akademi (Nis 2024)
 
 ---
 
@@ -26,10 +35,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
